@@ -14,7 +14,7 @@
 [https://www.freecodecamp.org/certification/rob_lyon/full-stack](https://www.freecodecamp.org/certification/rob_lyon/full-stack)
 
 
-## Various projects are hosted on codepen.io
+## Various front-end and data visualization projects are hosted on codepen.io
 [http://www.codepen.io/captroblyon](http://www.codepen.io/captroblyon)
 
 ## Backend projects (APIs, microservices, infoSec, automated testing...)
